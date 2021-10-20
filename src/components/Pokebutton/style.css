@@ -1,0 +1,14 @@
+.pokebutton {
+  width: 13.5rem;
+  height: 4rem;
+  border: none;
+
+  margin: 1rem;
+
+  color: #ffffff;
+  text-shadow: 1px 1px 1px #000;
+  font-weight: bold;
+  cursor: pointer;
+
+  border-radius: 0.5rem;
+}
